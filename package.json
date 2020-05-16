@@ -1,0 +1,35 @@
+{
+	"name": "cli-maker-files",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yandre13/project-files-cli.git"
+	},
+	"keywords": [
+		"js",
+		"ts",
+		"rb",
+		"java",
+		"cli",
+		"maker",
+		"files"
+	],
+	"author": "yandre13 <yandre13.elsf@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/yandre13/project-files-cli/issues"
+	},
+	"homepage": "https://github.com/yandre13/project-files-cli#readme",
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"figlet": "^1.4.0",
+		"inquirer": "^7.1.0",
+		"shelljs": "^0.8.4"
+	},
+	"bin": "./index.js"
+}
